@@ -7,7 +7,7 @@
 </div>
 
 <div align="center">
-  <img width="300" src="https://files.catbox.moe/7lcqg3.gif">
+  <img width="300" src="IMG_5875.gif">
 </div>
 
 ---
