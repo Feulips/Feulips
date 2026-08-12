@@ -37,13 +37,6 @@ Sou apaixonado por **tecnologia, desenvolvimento de software e criação de solu
 
 <br>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-00CFF7?style=for-the-badge&logo=html5&logoColor=black" />
-  <img src="https://img.shields.io/badge/CSS3-00CFF7?style=for-the-badge&logo=css3&logoColor=black" />
-  <img src="https://img.shields.io/badge/JavaScript-00CFF7?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-00CFF7?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-00CFF7?style=for-the-badge&logo=python&logoColor=black" />
-</p>
 
 ---
 
