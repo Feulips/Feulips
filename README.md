@@ -1,28 +1,65 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:00CFF7FF,100:6AFFFF"/>
+# 👋 Olá, eu sou Felipe Henrique!
+
+### 💻 Estudante de Ciência da Computação e Análise e Desenvolvimento de Sistemas
+
+Sou apaixonado por **tecnologia, desenvolvimento de software e criação de soluções digitais**. Estou sempre buscando aprimorar meus conhecimentos e desenvolver projetos que me permitam evoluir como profissional na área de tecnologia.
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00CFF7&center=true&vCenter=true&width=500&lines=Hey%2C+eu+sou+o+Felipe+Henrique;Estudante+de+Ci%C3%AAncias+da+Computa%C3%A7%C3%A3o+e+ADS)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code\&pause=1000\&color=00CFF7\&center=true\&vCenter=true\&width=650\&lines=Desenvolvedor+em+forma%C3%A7%C3%A3o;Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o+e+ADS;Sempre+aprendendo%2C+criando+e+evoluindo)](https://git.io/typing-svg)
 
 </div>
 
 <div align="center">
-  <img width="300" src="IMG_5875.gif">
-</div>
-
----
-
-## 🚀 Tecnologias que uso
-
-<div align="center">
-  
-<img src="https://skillicons.dev/icons?i=html,css,js,react,python,java,cpp,git,github" />
-
+  <img width="300" src="IMG_5875.gif" alt="Felipe Henrique - Developer GIF">
 </div>
 
 ---
 
-## 📊 Estatísticas
+## 🚀 Sobre mim
+
+```txt
+💻 Foco em desenvolvimento de software e aplicações web
+🎓 Estudante de Ciência da Computação e ADS
+🌱 Atualmente expandindo meus conhecimentos em novas tecnologias
+⚡ Transformando ideias em projetos e código
+```
+
+---
+
+## 🛠️ Tecnologias e Ferramentas
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,python,java,cpp,php,git,github,vscode" />
+
+</div>
+
+<br>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-00CFF7?style=for-the-badge&logo=html5&logoColor=black" />
+  <img src="https://img.shields.io/badge/CSS3-00CFF7?style=for-the-badge&logo=css3&logoColor=black" />
+  <img src="https://img.shields.io/badge/JavaScript-00CFF7?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-00CFF7?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-00CFF7?style=for-the-badge&logo=python&logoColor=black" />
+</p>
+
+---
+
+## 📌 O que estou estudando
+
+* ⚛️ **React e desenvolvimento Frontend**
+* 🐍 **Python**
+* ☕ **Java**
+* 🖥️ **Desenvolvimento Web**
+* 🔌 **APIs e integração de sistemas**
+* 🗄️ **Banco de Dados**
+* 🌐 **HTML, CSS e JavaScript**
+
+---
+
+## 📊 Estatísticas do GitHub
 
 <div align="center">
 
@@ -31,27 +68,38 @@
 
 </div>
 
+<br>
+
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Feulips&theme=transparent">
+  <img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Feulips&theme=transparent"/>
 </div>
+
 ---
 
 ## 🌎 Onde me encontrar
 
 <div align="center">
-  <a href="https://github.com/Feulips">
-    <img src="https://img.shields.io/badge/GitHub-00CFF7?style=for-the-badge&logo=github&logoColor=black">
-  </a>
-  <a href="https://www.linkedin.com/in/felipe-henrique-07990228a/">
-    <img src="https://img.shields.io/badge/LinkedIn-00CFF7?style=for-the-badge&logo=linkedin&logoColor=black">
-  </a>
-  <a href="www.instagram.com/feulips_/">
-    <img src="https://img.shields.io/badge/Instagram-00CFF7?style=for-the-badge&logo=instagram&logoColor=black">
-  </a>
+
+<a href="https://github.com/Feulips" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-00CFF7?style=for-the-badge&logo=github&logoColor=black" />
+</a>
+
+<a href="https://www.linkedin.com/in/felipe-henrique-07990228a/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-00CFF7?style=for-the-badge&logo=linkedin&logoColor=black" />
+</a>
+
+<a href="https://www.instagram.com/feulips_/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-00CFF7?style=for-the-badge&logo=instagram&logoColor=black" />
+</a>
+
 </div>
 
----
+<br>
 
+<div align="center">
 
+### 💡 "Transformando café, ideias e código em soluções."
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:00CFF7FF,100:6AFFFF&section=footer"/>
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:00CFF7,100:6AFFFF&section=footer"/>
