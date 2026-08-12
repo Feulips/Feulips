@@ -88,7 +88,7 @@ Sou apaixonado por **tecnologia, desenvolvimento de software e criação de solu
 
 <div align="center">
 
-### 💡 "Transformando café, ideias e código em soluções."
+### 🧠 Aprendendo na prática, construindo no código."
 
 </div>
 
