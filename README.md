@@ -73,17 +73,14 @@ Sou apaixonado por **tecnologia, desenvolvimento de software e criação de solu
 
 <div align="center">
 
-<a href="https://github.com/Feulips" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-00CFF7?style=for-the-badge&logo=github&logoColor=black" />
-</a>
-
 <a href="https://www.linkedin.com/in/felipe-henrique-07990228a/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-00CFF7?style=for-the-badge&logo=linkedin&logoColor=black" />
+  <img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+ 
+<a href="https://www.instagram.com/feulips_/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=instagram" />
 </a>
 
-<a href="https://www.instagram.com/feulips_/" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-00CFF7?style=for-the-badge&logo=instagram&logoColor=black" />
-</a>
 
 </div>
 
