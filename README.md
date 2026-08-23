@@ -31,7 +31,7 @@ Sou apaixonado por **tecnologia, desenvolvimento de software e criação de solu
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,python,java,cpp,php,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=js,react,vite,tailwind,python,java,git,github,vscode" />
 
 </div>
 
