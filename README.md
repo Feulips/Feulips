@@ -1,14 +1,10 @@
-# 👋 Olá, eu sou Felipe Henrique!
+# 👋 Felipe Henrique Carvalho
 
-### 💻 Desenvolvedor em formação | Ciência da Computação & ADS
-
-Sou estudante de **Ciência da Computação e Análise e Desenvolvimento de Sistemas**, com foco em **desenvolvimento de software e aplicações web**.
-
-Tenho interesse em transformar ideias em soluções funcionais, buscando evoluir constantemente através de projetos práticos e do aprendizado de novas tecnologias.
+### Estudante de Ciência da Computação & ADS | Desenvolvimento Web e Software
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code\&pause=1000\&color=00CFF7\&center=true\&vCenter=true\&width=650\&lines=Desenvolvedor+em+forma%C3%A7%C3%A3o;Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o+%7C+ADS;Desenvolvimento+Web+%7C+Software;Aprendendo%2C+criando+e+evoluindo)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00CFF7&center=true&vCenter=true&width=650&lines=Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Constru%C3%ADndo+projetos+reais+com+React+e+Node;Migrando+para+desenvolvimento+web;Aprendendo+um+pouco+mais+a+cada+projeto)](https://git.io/typing-svg)
 
 </div>
 
@@ -16,89 +12,97 @@ Tenho interesse em transformar ideias em soluções funcionais, buscando evoluir
   <img width="300" src="IMG_5875.gif" alt="Felipe Henrique - Developer GIF">
 </div>
 
----
-
-## 🚀 Sobre mim
-
-```txt
-💻 Foco em desenvolvimento de software e aplicações web
-⚛️ Desenvolvimento de interfaces modernas com React
-🧩 Construção de projetos utilizando JavaScript, Vite e Tailwind CSS
-🐍 Desenvolvimento e estudos com Python
-☕ Aprendizado e desenvolvimento com Java
-🌱 Evolução constante através de projetos práticos
-🔧 Versionamento e colaboração com Git e GitHub
-```
-
-Meu objetivo é continuar fortalecendo minha base em programação e desenvolvimento de software, criando projetos que unam **código, organização e resolução de problemas**.
-
----
-
-## 🛠️ Tecnologias e Ferramentas
-
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=js,react,vite,tailwind,python,java,php,git,github,vscode" />
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/felipe-henrique-07990228a/)
+[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/Feulips)
 
 </div>
 
-<br>
+---
 
-### 💻 Desenvolvimento
+## Sobre mim
 
-- **JavaScript** — lógica, aplicações e desenvolvimento web
-- **React** — construção de interfaces e aplicações frontend
-- **Vite** — ambiente moderno para desenvolvimento frontend
-- **Tailwind CSS** — criação de interfaces responsivas e modernas
-- **Python** — programação, lógica e desenvolvimento de aplicações
-- **Java** — programação orientada a objetos e desenvolvimento de software
-- **PHP** — desenvolvimento web e aplicações backend
+Estou no 7º semestre de **Ciência da Computação**, cursando também **Análise e Desenvolvimento de Sistemas**, com foco em desenvolvimento de software e aplicações web (frontend e backend).
 
-### 🔧 Ferramentas
+Antes de entrar na área de tecnologia, trabalhei por 2 anos com telemarketing e 7 meses como analista de sinistros — experiências que me deram uma base sólida em lidar com processos, atendimento e resolução de problemas sob pressão. Hoje estou direcionando esse repertório para migrar de vez para a área de desenvolvimento.
 
-* **Git** — controle de versão
-* **GitHub** — gerenciamento e colaboração em projetos
-* **Visual Studio Code** — ambiente principal de desenvolvimento
+Tenho inglês em nível básico e venho aprofundando isso junto com a parte técnica.
+
+Fora da faculdade, desenvolvo projetos próprios para aplicar o que estudo — do backend com Node e MongoDB até automações com n8n e integrações com APIs.
 
 ---
 
-## 📚 Atualmente estudando
+## Tech Stack
 
-Meu foco atual está em aprofundar meus conhecimentos em:
+<div align="center">
 
-- ⚛️ **React e desenvolvimento Frontend**
-- 🟨 **JavaScript moderno**
-- ⚡ **Vite**
-- 🎨 **Tailwind CSS**
-- 🐘 **PHP e desenvolvimento Backend**
-- 🐍 **Python**
-- ☕ **Java e Programação Orientada a Objetos**
-- 🔌 **APIs e integração entre sistemas**
-- 🗄️ **Banco de Dados**
-- 🌐 **Desenvolvimento Web**
-- 🔧 **Git e GitHub**
-- 🧠 **Lógica de programação e boas práticas**
+<img src="https://skillicons.dev/icons?i=react,vite,tailwind,bootstrap,nodejs,python,java,php,mysql,supabase,git,github,vscode,mongodb" />
 
----
+</div>
 
-## 📌 Objetivo
+**Frontend:** JavaScript · React · Vite · Tailwind CSS · HTML · CSS · Bootstrap
 
-Busco transformar o conhecimento adquirido nos estudos em **projetos reais**, desenvolvendo cada vez mais minha capacidade de:
+**Backend:** Node.js · PHP · APIs REST
 
-```txt
-→ Analisar problemas
-→ Planejar soluções
-→ Escrever código
-→ Criar interfaces
-→ Integrar sistemas
-→ Trabalhar com dados
-→ Versionar projetos
-→ Aprender novas tecnologias
-```
+**Linguagens:** JavaScript · Python · Java · PHP · SQL
+
+**Banco de Dados:** SQL · MongoDB · Supabase
+
+**Ferramentas:** Git · GitHub · VS Code
+
+**Automação:** n8n · Automação com WhatsApp 
 
 ---
 
-## 📊 Estatísticas do GitHub
+## Projetos em destaque
+
+### KakauPet / PrETo
+Sistema completo para petshop com autenticação, controle de acesso por cargo, área administrativa e gerenciamento de clientes, pets e funcionários.
+
+`React` `Vite` `JavaScript` `Tailwind CSS` `Node.js` `Supabase`
+
+- Rotas privadas e controle de acesso por cargo
+- Cadastro de clientes e pets
+- Gerenciamento de funcionários e dashboard administrativo
+- Integração com ViaCEP e fluxo de alteração de senha
+- Integração completa entre frontend e backend
+
+🔗 [Repositório](https://github.com/Feulips/petshop-projeto.git)
+
+### Baymax
+Chatbot voltado para enfermagem pediátrica, com integração à API do Gemini para gerar respostas.
+
+`PHP` `HTML` `CSS` `JavaScript` `IA API`
+
+### MelonBot
+Chatbot/assistente com interação por voz.
+
+🔗 [Repositório](https://github.com/Feulips/MelonBot)
+
+### HollowMovie
+Aplicação web para explorar informações sobre filmes.
+
+🔗 [Ver aplicação](https://hollowmovie.netlify.app/)
+
+### Portfólio pessoal
+Site pessoal com meus projetos e informações.
+
+🔗 [Ver portfólio](https://feulips.github.io/Felipe-Carvalho-Portfolio/)
+
+---
+
+## Atualmente estudando
+
+- Aprofundamento em **React** (padrões de componentização, gerenciamento de estado)
+- **Node.js** e construção de APIs
+- **Bancos de dados relacionais e não relacionais** (SQL e MongoDB)
+- **Automação de processos** com n8n
+- **Java** e Programação Orientada a Objetos
+
+---
+
+## GitHub Stats
 
 <div align="center">
 
@@ -118,17 +122,12 @@ Busco transformar o conhecimento adquirido nos estudos em **projetos reais**, de
 
 ---
 
-## 🌎 Onde me encontrar
+## Contato
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/felipe-henrique-07990228a/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
-
-<a href="https://www.instagram.com/feupszz/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=instagram" />
-</a>
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/felipe-henrique-07990228a/)
+[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/Feulips)
 
 </div>
 
@@ -136,7 +135,7 @@ Busco transformar o conhecimento adquirido nos estudos em **projetos reais**, de
 
 <div align="center">
 
-### 🧠 Aprendendo na prática. Construindo com código.
+### Construindo experiência, projeto por projeto.
 
 </div>
 
