@@ -29,7 +29,7 @@ Antes de entrar na área de tecnologia, trabalhei por 2 anos com telemarketing e
 
 Tenho inglês em nível básico e venho aprofundando isso junto com a parte técnica.
 
-Fora da faculdade, desenvolvo projetos próprios para aplicar o que estudo — do backend com Node e MongoDB até automações com n8n e integrações com APIs.
+Fora da faculdade, desenvolvo projetos próprios para aplicar o que estudo — do backend com Node e MongoDB/Supabase até automações com n8n e integrações com APIs.
 
 ---
 
